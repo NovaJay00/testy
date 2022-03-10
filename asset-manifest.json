@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/testy/static/css/main.7877a41f.chunk.css",
+    "main.js": "/testy/static/js/main.767afc3f.chunk.js",
+    "main.js.map": "/testy/static/js/main.767afc3f.chunk.js.map",
+    "runtime~main.js": "/testy/static/js/runtime~main.01250910.js",
+    "runtime~main.js.map": "/testy/static/js/runtime~main.01250910.js.map",
+    "static/css/2.aa9bd187.chunk.css": "/testy/static/css/2.aa9bd187.chunk.css",
+    "static/js/2.3c097907.chunk.js": "/testy/static/js/2.3c097907.chunk.js",
+    "static/js/2.3c097907.chunk.js.map": "/testy/static/js/2.3c097907.chunk.js.map",
+    "index.html": "/testy/index.html",
+    "precache-manifest.185f17696e428ea1f1d0569e38f1a442.js": "/testy/precache-manifest.185f17696e428ea1f1d0569e38f1a442.js",
+    "service-worker.js": "/testy/service-worker.js",
+    "static/css/2.aa9bd187.chunk.css.map": "/testy/static/css/2.aa9bd187.chunk.css.map",
+    "static/css/main.7877a41f.chunk.css.map": "/testy/static/css/main.7877a41f.chunk.css.map",
+    "static/media/index.css": "/testy/static/media/blur-background-1187974.55d5567d.jpg",
+    "static/media/weather-icons.css": "/testy/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
